@@ -4,7 +4,7 @@
     "lib/casting_vote.ex",
     "lib/casting_vote/application.ex",
     "lib/casting_vote/mailer.ex",
-    "lib/casting_vote/repo.ex.ex",
+    "lib/casting_vote/repo.ex",
     "lib/casting_vote_web/telemetry.ex",
     "lib/casting_vote_web/gettext.ex",
     "lib/casting_vote_web/views/error_helpers.ex",
